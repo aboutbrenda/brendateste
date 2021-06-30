@@ -12,7 +12,6 @@ class Pessoa {
 
 fun main () {
     val brenda = Pessoa()
-
     println(brenda.pessoaInfo())
 
 }
